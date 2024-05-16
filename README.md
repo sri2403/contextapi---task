@@ -23,3 +23,5 @@ This is a simple shopping cart application built using React. It allows users to
 - React Router: Declarative routing for React.
 - Bootstrap: Front-end framework for building responsive and mobile-first websites.
 - Font Awesome: Library of icons for web projects.
+
+view=>https://contextapi-task-sri2403.netlify.app/
